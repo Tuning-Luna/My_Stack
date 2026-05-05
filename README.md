@@ -1,4 +1,4 @@
-更多学习资料：https://github.com/Tuning-Luna/HFUT_XC_Study_Things
+更多合肥工业大学学习资料：https://github.com/Tuning-Luna/HFUT_XC_Study_Things
 
 # 栈数据结构实现项目
 
